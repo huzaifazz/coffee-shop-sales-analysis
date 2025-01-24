@@ -1,5 +1,5 @@
 # coffee-shop-sales-analysis
-## Data Analysis using MS Excel—
+## Data Analysis using MS Excel
 a comprehensive Coffee Shop Sales Analysis. This dashboard offers deep insights into sales performance, customer behavior, and product popularity, providing actionable data for business decisions.
 
 **Key highlights of the dashboard:**
